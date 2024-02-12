@@ -8,7 +8,7 @@ Try to brute force and get a bounty in Bitcoins (sometimes with BCH, BSV, BTG).
 
 |  _Wallet balance and features_| _BTC  | _Main address(es)_ | _Price of file_
 |--|--|--|--|
-| [31000BTC] $382,402,084.65|15Z5YJaaNSxeynvr6uW6jQZLwq3n1Hu6RX|0.84 BTC[Buy it now](https://satoshidisk.com/pay/CKddcB)|
+| [31000BTC]| $382,402,084.65|15Z5YJaaNSxeynvr6uW6jQZLwq3n1Hu6RX|0.84 BTC[Buy it now](https://satoshidisk.com/pay/CKddcB)|
 |--|--|--|--|
 | [7941BTC](hint Passlen: 8-13 Prompt: USA user, used latinic sym, start at upperkey, end of special + numeric)|$382,402,084.65|15Z5YJaaNSxeynvr6uW6jQZLwq3n1Hu6RX|0.84 BTC[Buy it now](https://satoshidisk.com/pay/CKdcsk)|
 |--|--|--|--|
